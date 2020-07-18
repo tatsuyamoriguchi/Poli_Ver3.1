@@ -1,11 +1,19 @@
 # Poli ToDo
-<br>Version 2.0
-<br>BFF app that helps you achieve goals, iOS app
-<br>Copyright 2019 Tatsuya Moriguchi
+<br>Version 3.1
+<br>BFF app that helps you achieve goals, iOS and MacOS Catalyse app
+<br>Copyright 2020 Tatsuya Moriguchi
 <br>YouTube video: Not Yet Produced
-<br><img src="https://github.com/tatsuyamoriguchi/Poliver2/blob/master/PoliRoundIcon.png" alt="PoliPoli icon image">
+<br><img src="https://github.com/tatsuyamoriguchi/Poli_Ver3.1/blob/master/PoliRoundIcon.png" alt="PoliPoli icon image">
 <br>
 <h2>To-Do app with following features:</h2>
+<li>Available now for MacOS, iPadOS, and iOS
+<li>iCloud sync your data among your iPhones, iPads, and Mac via your iCloud account
+<li>Version 2 data conversion for iCloud sync
+<li>Task repeat daily, weekdays, or weekly
+<li>Search tasks with keywords
+<li>Today's and Tomorrow's task list crossing all goals with one click
+<li>Improved UI workflows
+<li>Bug fixes
   <li>Simple animation and sound
   <li>Password login using UserDefaults (no it's not safe, I know. Just for sample app only)
   <li>Navigation Controller
