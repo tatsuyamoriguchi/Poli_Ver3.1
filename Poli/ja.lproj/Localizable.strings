@@ -1,0 +1,547 @@
+/* navigationItem.title */
+"'s Goals" = "の目標リスト";
+
+/* UIBarButtonItem */
+"< Back" = "＜ 戻る";
+
+/* Picker menu */
+"Active" = "選択可";
+
+/* Alert title */
+"Add or Edit a link" = "リンク先を追加・更新する。";
+
+/* Alert message */
+"Add or edit URL." = "URLを追加・更新する。";
+
+/* Alert title */
+"Alert" = "注意";
+
+/* Picker menu */
+"All Goals" = "全目標";
+
+/* Alert title */
+"Calendar Access Denied" = "Calendarへのアクセス拒否";
+
+/* Alert button */
+"Cancel" = "キャンセル";
+
+/* navigationItem.title */
+"Change Goal Assigned" = "タスクの目標変更";
+
+/* navigationItem.title */
+"Click any to sync data" = "クリックしてデータ同期";
+
+/* No comment provided by engineer. */
+"Congratulation!" = "おめでとう！";
+
+/* repeatStyle */
+"Daily" = "毎日反復";
+
+/* Alert.message */
+"Do you want to repeat this task?" = "このタスクを反復しますか。";
+
+/* Picker menu */
+"Done" = "完了";
+
+/* Picker menu */
+"Done Goals Only" = "完了した目標のみ表示";
+
+/* eventString */
+"Enjoy your reward" = "ご褒美タイム！";
+
+/* eventString */
+"Enjoy your reward, Buy (rewardName) for (rewardValue)" = "ご褒美に (rewardValue) で \"(rewardName)\"";
+
+/* eventString */
+"Enjoy your reward!" = "ご褒美タイム！";
+
+/* Alert title */
+"Error" = "エラー";
+
+/* event.notes */
+"Error: No Goal Title Found" = "エラー：目標のタイトルが見つかりませんでした。";
+
+/* event.notes */
+"Error: Unable to obtain a task title." = "エラー：タスクのタイトルがありませんでした。";
+
+/* Calendar event title */
+"Event for (calendar!.title)" = "(calendar!.title) 向けイベント";
+
+/* UIBarButtonItem */
+"Goal" = "目標";
+
+/* sharelink.title */
+"Goal Selected" = "選択した目標";
+
+/* iCloudStatus */
+"iCloud account not connected" = "iCloud に接続されていません。";
+
+/* iCloudStatus */
+"iCloud account synced" = "iCloud に接続中";
+
+/* iCloudStatus */
+"iCloud sync not available" = "iCloud 同期ができません。";
+
+/* Picker menu */
+"Inactive" = "使用停止中";
+
+/* Alert.title */
+"Login Aelrt" = "ログイン警告";
+
+/* No comment provided by engineer. */
+"No" = "いいえ";
+
+/* dateString
+   dueDateString */
+"No date assigned" = "日付が設定されていません。";
+
+/* Error message */
+"No reward assigned" = "ご褒美が設定されていません。";
+
+/* eventString */
+"No reward or value was assinged." = "ご褒美やその価値が設定されていません。";
+
+/* Alert message */
+"No User Name found" = "ユーザー名が見つかりません。";
+
+/* Alert title */
+"No Vision Title Detected" = "Visionタイトルが見つかりません。";
+
+/* Placeholder */
+"Note this goal's summary, description, resources, related parties, locations, and any to note." = "目標の要約、詳細、リソース、関連先、位置情報等を書き込んでください。";
+
+/* Placeholder */
+"Note this vision's summary, description, resources, related parties, locations, and any to note." = "目標の要約、詳細、リソース、関連先、位置情報等を書き込んでください。";
+
+/* No comment provided by engineer. */
+"NSL_" = "FaceID/TouchIDが設定されていません。";
+
+/* (No Comment) */
+"NSL_alertCancel" = "キャンセル";
+
+/* (No Comment) */
+"NSL_alertMessage_001" = "このアプリのユーザーアカウントが既に存在します。ユーザー情報を変更するにはこのアプリにログインして「設定」を選んで下さい。";
+
+/* (No Comment) */
+"NSL_alertMessage_002" = "ユーザー名とパスワード両方を記入してください。";
+
+/* (No Comment) */
+"NSL_alertMessage_003" = "このアプリにログインするにはユーザー名とパスワードを使ってください。";
+
+/* (No Comment) */
+"NSL_alertMessage_004" = "アカウントが未設定です。アカウント作成してください。";
+
+/* (No Comment) */
+"NSL_alertMessage_005" = "入力情報がユーザー情報と違います。";
+
+/* (No Comment) */
+"NSL_alertMessage_006" = "通知時間設定";
+
+/* (No Comment) */
+"NSL_alertMessage_007" = "お使いになったユーザー名が登録されたものと違います。OKをクリックしてログイン画面に戻り再ログインしてください。";
+
+/* (No Comment) */
+"NSL_alertMessage_008" = "ユーザー名とパスワードの両方を記入してください。";
+
+/* (No Comment) */
+"NSL_alertMessage_009" = "新しいユーザー情報で再ログインしてください。";
+
+/* (No Comment) */
+"NSL_alertMessage_011 " = "\"%@\"に登録されたタスクがすべて完了しました。「目標達成！」ボタンをクリックして目標達成をお祝いしましょう。目標が達成していなくてまだ完了するタスクが他にある場合は「タスクを更に追加」をクリックしてください。";
+
+/* No comment provided by engineer. */
+"NSL_alertMessage_014" = "よくできました！ご褒美「%@」を楽しもう！";
+
+/* No comment provided by engineer. */
+"NSL_alertMessage_015" = "削除してよろしいですか。";
+
+/* No comment provided by engineer. */
+"NSL_alertMessage_016" = "目標\"%3$@\"、%1$d %2$ %達成！";
+
+/* No comment provided by engineer. */
+"NSL_alertMessage_017" = "この記入項目は必須です。";
+
+/* No comment provided by engineer. */
+"NSL_alertMessage_018" = "画像を選択";
+
+/* No comment provided by engineer. */
+"NSL_alertMessage_021" = "タスク期限（開始日）を変更できませんでした。可能にするには目標画面から「変更」機能で目標の完了ステータスをオフに変更してください。";
+
+/* No comment provided by engineer. */
+"NSL_alertMessage_022" = "削除してもよろしいですか。";
+
+/* No comment provided by engineer. */
+"NSL_alertMessage_024" = "この記入項目は必須です。";
+
+/* No comment provided by engineer. */
+"NSL_alertMessage_100" = "入力事項が足りません。";
+
+/* (No Comment) */
+"NSL_alertTitel_012" = "まだまだ、タスク追加";
+
+/* No comment provided by engineer. */
+"NSL_alertTitle_001" = "ユーザーが既に存在します。";
+
+/* (No Comment) */
+"NSL_alertTitle_002" = "追加情報が必要です。";
+
+/* (No Comment) */
+"NSL_alertTitle_004" = "アカウントがありません。";
+
+/* (No Comment) */
+"NSL_alertTitle_005" = "認証に失敗しました。";
+
+/* (No Comment) */
+"NSL_alertTitle_007" = "ユーザー名が違います。";
+
+/* (No Comment) */
+"NSL_alertTitle_008" = "追加情報が必要です。";
+
+/* (No Comment) */
+"NSL_alertTitle_009" = "ユーザー情報が更新されました。";
+
+/* (No Comment) */
+"NSL_alertTitle_010" = "OK";
+
+/* (No Comment) */
+"NSL_alertTitle_011" = "目標達成しましたか。";
+
+/* (No Comment) */
+"NSL_alertTitle_013" = "目標達成、おめでとう！";
+
+/* No comment provided by engineer. */
+"NSL_alertTitle_014" = "やったね！";
+
+/* No comment provided by engineer. */
+"NSL_alertTitle_015" = "削除";
+
+/* No comment provided by engineer. */
+"NSL_alertTitle_016" = "やったね！";
+
+/* No comment provided by engineer. */
+"NSL_alertTitle_017" = "入力がありません。";
+
+/* No comment provided by engineer. */
+"NSL_alertTitle_018" = "画像";
+
+/* No comment provided by engineer. */
+"NSL_alertTitle_019" = "カメラ";
+
+/* No comment provided by engineer. */
+"NSL_alertTitle_020" = "画像ライブラリー";
+
+/* No comment provided by engineer. */
+"NSL_alertTitle_021" = "目標は既に完了しています。";
+
+/* No comment provided by engineer. */
+"NSL_alertTitle_022" = "削除";
+
+/* No comment provided by engineer. */
+"NSL_alertTitle_024" = "記入がありません。";
+
+/* No comment provided by engineer. */
+"NSL_alertTitle_100" = "テキスト入力がありません。";
+
+/* No comment provided by engineer. */
+"NSL_authFailed" = "個人認証に問題がありました。";
+
+/* No comment provided by engineer. */
+"NSL_bioDefault" = "FaceID/TouchIDが設定できません。";
+
+/* No comment provided by engineer. */
+"NSL_bioLockout" = "FaceID/TouchIDがロックされています。";
+
+/* No comment provided by engineer. */
+"NSL_bioNotAvailable" = "FaceID/TouchIDが使えません。";
+
+/* No comment provided by engineer. */
+"NSL_cancelButton" = "キャンセル";
+
+/* No comment provided by engineer. */
+"NSL_chagneGoalAlertMessage" = "リストの目標をクリックして変更。完了してない目標のみ表示されるので、このリストに表示させるには、まずその目標の完了ステータスを変更してください。";
+
+/* No comment provided by engineer. */
+"NSL_chagneGoalAlertTitle" = "このタスクの目標変更";
+
+/* (No Comment) */
+"NSL_contentBody" = "さぁ、タスクの実行に集中しよう！";
+
+/* (No Comment) */
+"NSL_contentSubtitle " = "Poli を開く";
+
+/* (No Comment) */
+"NSL_contentTitle" = "日次の通知";
+
+/* repeatString */
+"NSL_daily" = "毎日反復";
+
+/* No comment provided by engineer. */
+"NSL_deleteButton_01" = "削除";
+
+/* No comment provided by engineer. */
+"NSL_deleteButton_02" = "削除";
+
+/* No comment provided by engineer. */
+"NSL_deleteButton_03" = "削除";
+
+/* No comment provided by engineer. */
+"NSL_deleteButton_04" = "削除";
+
+/* Due date text with parameters */
+"NSL_dueDateLabel" = "期限： %1$@ - %2$@";
+
+/* EKEvent.notes */
+"NSL_goal" = "目標:";
+
+/* No comment provided by engineer. */
+"NSL_goalDescription" = "目標の目的（ビジョン）、詳細、経過記録、注意事項、課題等自由に書き込んで下さい。";
+
+/* No comment provided by engineer. */
+"NSL_loginError" = "ログインエラー";
+
+/* No comment provided by engineer. */
+"NSL_loginReason" = "Touch IDでログイン";
+
+/* No comment provided by engineer. */
+"NSL_loginUsername" = "%@ としてログイン";
+
+/* No comment provided by engineer. */
+"NSL_migrateAlert" = "iCloud 同期に関する注意";
+
+/* No comment provided by engineer. */
+"NSL_migrateMessage" = "データをクリックすると、ご登録されている iCloud アカウントを通してご利用の他の iOS/MacOS デバイスに データが同期されます。データ変換は一度だけです。【注意】バージョン3で新たに追加もしくは既存タスクの更新をした場合、その目標データを変換していなくても、そのタスクデータは同期されます。そのタスクに紐づいている目標タイトルデータやご褒美データも同期されます。";
+
+/* No comment provided by engineer. */
+"NSL_naviAdd" = "タスクの追加";
+
+/* No comment provided by engineer. */
+"NSL_naviError" = "エラー：segueNameが確認できませんでした。";
+
+/* No comment provided by engineer. */
+"NSL_naviMissing" = "ログイン名が認識されまませんでした。";
+
+/* No comment provided by engineer. */
+"NSL_naviPormpt" = "ログイン名：%@";
+
+/* No comment provided by engineer. */
+"NSL_naviTask" = "タスクリスト";
+
+/* No comment provided by engineer. */
+"NSL_naviToday" = "今日の予定タスク";
+
+/* No comment provided by engineer. */
+"NSL_naviTomorrow" = "明日の予定タスク";
+
+/* No comment provided by engineer. */
+"NSL_naviUpdate" = "タスク更新";
+
+/* No comment provided by engineer. */
+"NSL_nextButton_01" = "次へ";
+
+/* Error message */
+"NSL_noGoal" = "目標が設定されてません。";
+
+/* (No Comment) */
+"NSL_notifTitle_001" = "りょ！";
+
+/* (No Comment) */
+"NSL_notifTitle_002" = "あとでやる・・・";
+
+/* No comment provided by engineer. */
+"NSL_noTodaysTask" = "今日のタスクはありません。";
+
+/* (No Comment) */
+"NSL_NSL_alertTitle_003" = "ユーザーアカウント作成完了";
+
+/* No comment provided by engineer. */
+"NSL_oK" = "OK";
+
+/* No comment provided by engineer. */
+"NSL_percentDone" = "%達成";
+
+/* No comment provided by engineer. */
+"NSL_postMessage" = "今日の予定タスク:";
+
+/* No comment provided by engineer. */
+"NSL_postMessageTomorrow" = "明日の予定タスク:";
+
+/* No comment provided by engineer. */
+"NSL_progressAmazing" = "すげーな";
+
+/* No comment provided by engineer. */
+"NSL_progressAtomic" = "やべぇな、残りもやっちまおう、今！";
+
+/* No comment provided by engineer. */
+"NSL_progressCompleted" = "目標達成したね！";
+
+/* No comment provided by engineer. */
+"NSL_progressError" = "エラー：Progress Percentageのところで何か変。";
+
+/* No comment provided by engineer. */
+"NSL_progressGood" = "やるねー、その調子！";
+
+/* No comment provided by engineer. */
+"NSL_progressMore" = "もっとできるよ！";
+
+/* No comment provided by engineer. */
+"NSL_progressNothing" = "まーだなんもしてないの？";
+
+/* EKevent.notes */
+"NSL_reward" = "ご褒美:";
+
+/* No comment provided by engineer. */
+"NSL_shareAlert" = "FacebookやLinkedInのように今日のTo-Doを表示しないアプリに共有したい場合";
+
+/* No comment provided by engineer. */
+"NSL_shareGoalAlert" = "目標設定法";
+
+/* No comment provided by engineer. */
+"NSL_shareGoalMessage" = "ビジョン＞目標＞タスク　目標はS.M.A.R.T.に基づいて設定してください。「S：Specific 具体性、M：Measurable 計測性、A：Achievable 達成可能、R：Relevant ビジョン整合性、T：Time-Bound　期限」最初は1週間ほどで達成できる程度のものから目標設定を始めましょう。計画は緩く、実行は確実に！";
+
+/* No comment provided by engineer. */
+"NSL_shareMessage" = "共有メニューから「コピー」をまず選択し、共有ボタンを再度押してからFacebookやLinkedInの共有ポスティングスクリーンのメッセージ欄にペーストしてください。";
+
+/* No comment provided by engineer. */
+"NSL_shareVisionAlert" = "ビジョン策定法";
+
+/* No comment provided by engineer. */
+"NSL_shareVisionMessage" = "ビジョンはあなたの夢を実現させたものです。どんな自分になりたいのか。具体的に夢を描いて現実的な計画を立てて夢を実現させる目標を達成させましょう。";
+
+/* No comment provided by engineer. */
+"NSL_statusLeft" = "残り%1$d日と%2$d時間";
+
+/* No comment provided by engineer. */
+"NSL_statusPassed" = "期限過ぎたんですけど・・・";
+
+/* No comment provided by engineer. */
+"NSL_statusToday" = "残り%d時間";
+
+/* No comment provided by engineer. */
+"NSL_taskAlertMessage" = "タスクとは目標を達成させるのに必要な作業のこと。「100m走で0.5秒スタートを速める。」という目標を達成させるために、「Usain Boldのスタートの仕方をビデオA、 B、 Cを8月1日までに見て学ぶ。」というのが作業の例です。作業は通常1時間以内に完了するものです。完了するのに1時間以上必要な場合は、その作業を分割しましょう。もし該当する作業実行に気乗りしない時は、何かご褒美を設定しましょう。作業の内容は明確にし、すぐにその作業を始められるように曖昧なところがないようにしましょう。後回しにしようとする時は大抵作業内容が曖昧であることが多いです。作業内容は極力具体的に、またなるべく小さく分割しましょう。";
+
+/* No comment provided by engineer. */
+"NSL_taskAlertTitle" = "タスク設定法";
+
+/* event.notes */
+"NSL_taskCompleteString" = "タスク完了したご褒美:";
+
+/* No comment provided by engineer. */
+"NSL_updateButton_01" = "更新";
+
+/* No comment provided by engineer. */
+"NSL_userCancel" = "キャンセルされました。";
+
+/* No comment provided by engineer. */
+"NSL_userFallback" = "ユーザー名とパスワードを入力して下さい。";
+
+/* EKEvent.notes */
+"NSL_value" = "金額:";
+
+/* No comment provided by engineer. */
+"NSL_vision4GoalButton" = "Vision";
+
+/* repeatString */
+"NSL_weekdays" = "平日反復";
+
+/* repeatString */
+"NSL_weekly" = "毎週反復";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* Alert message */
+"Please allow Poli ToDo to access your calendars. Launch iPhone Settings Poli to turn Calendar setting on." = "Poli ToDoにCalendarへのアクセスを許可してください。iPhoneの設定アプリでPoliをクリック、Calendar設定をONにしてください。";
+
+/* Alert message */
+"Please type a title for a vision." = "Visionのタイトルを記入してください。";
+
+/* Alert.message */
+"Problem reading login information in UserDefaults. Please re-login." = "ログイン情報の取得に問題がありました。もう一度ログインし直してください。";
+
+/* UIBarButtonItem */
+"Reward" = "ご褒美";
+
+/* AlertNotificaiton.message */
+"Reward data migration failed (String(describing: errorDitection)) times." = "ご褒美データの変換失敗：(String(describing: errorDitection)) 回";
+
+/* AlertNotification.message */
+"Reward data were migrated to iCloud sync mode. Make sure you log in the same iCloud account on your iOS devices to sync data." = "ご褒美データは iCloud 同期モードに変換されました。データ同期させたい iOS/MacOS デバイスで同じ iCloud アカウントでログインしてデータ同期してください。";
+
+/* event.notes */
+"Reward for achieving a goal!" = "目標達成のご褒美！";
+
+/* AlertNotificaiton.title */
+"Reward Migration Done" = "ご褒美データの変換完了";
+
+/* AlertNotification.title */
+"Reward Migration Failed" = "ご褒美データの変換失敗";
+
+/* Alert title */
+"Save" = "保存";
+
+/* searchBar.placeholder */
+"Search Task" = "タスク検索";
+
+/* Placeholder */
+"Select a Goal" = "目標の選択";
+
+/* Placeholder */
+"Select a Goal." = "目標の選択";
+
+/* Alert.title */
+"Task Repeat Confirmation" = "タスク反復の確認";
+
+/* Error message */
+"Touch ID not available" = "Touch IDが使えません。";
+
+/* Placeholder */
+"Type a concice specific goal." = "目標を具体的に短めに記入してください。";
+
+/* Placeholder */
+"Type something here to activate 'Post' button." = "何かタイプして「投稿」ボタンを有効にしてください。";
+
+/* Placeholder */
+"Type url here like https://www.beckos.com" = "URLを記入してください。例：https://www.beckos.com";
+
+/* eventString */
+"Unable to obtain reward name and value." = "ご褒美名とその価値データを取得できませんでした。";
+
+/* Picker menu */
+"Undone with Due" = "期限付きの未達成目標";
+
+/* Picker menu */
+"Undone without Due" = "期限なしの未達成目標";
+
+/* Button */
+"Update" = "更新";
+
+/* Instruction for slider */
+"Use the slider below to set a value." = "スライダーを動かして金額を設定してください。";
+
+/* UIBarButtonItem */
+"Vision" = "ビジョン";
+
+/* alertNotification.message */
+"Vision data migration failed (String(describing: errorDitection)) times." = "ビジョンデータの変換失敗。(String(describing: errorDitection)) 回";
+
+/* AlertNotification.message */
+"Vision data were migrated to iCloud sync mode. Make sure you log in the same iCloud account on your iOS devices to sync data." = "ビジョンデータは iCloud 同期モードに変換されました。お使いの iOS/MacOSで同じ iCloud アカウントでログインするとデータ同期します。";
+
+/* AlertNotification.title */
+"Vision Migration Done" = "ビジョンデータの変換完了";
+
+/* AlertNotificaiton.title */
+"Vision Migration Failed" = "ビジョンデータの変換失敗";
+
+/* repeatStype */
+"Weekdays" = "平日反復";
+
+/* repeatStyle */
+"Weekly" = "毎週反復";
+
+/* No comment provided by engineer. */
+"Yes" = "はい";
+
+/* No comment provided by engineer. */
+"Your hard work pays off and feel your progress now!" = "よく頑張りました。前進したね！";
+
