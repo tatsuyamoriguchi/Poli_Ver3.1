@@ -20,6 +20,7 @@
 		8C14448A232F119B00FCE647 /* Reward+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C65A728231ECB3100034E09 /* Reward+CoreDataClass.swift */; };
 		8C14448B232F119E00FCE647 /* Task+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C5AFAFF232CDC5A002A2F77 /* Task+CoreDataProperties.swift */; };
 		8C14448C232F11A000FCE647 /* Task+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C5AFAFE232CDC5A002A2F77 /* Task+CoreDataClass.swift */; };
+		8C1E62BF24C2D4C9005D425F /* ShareCustomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C1E62BE24C2D4C9005D425F /* ShareCustomViewController.swift */; };
 		8C219F9A22FE613F00E87A2B /* LocationAuth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C219F9922FE613F00E87A2B /* LocationAuth.swift */; };
 		8C27360D21169F1600A482B3 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C27360C21169F1600A482B3 /* LoginViewController.swift */; };
 		8C27360F2116CB2200A482B3 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C27360E2116CB2200A482B3 /* SettingsViewController.swift */; };
@@ -103,6 +104,7 @@
 		8C004A6F20FEB3A600960B3A /* TaskTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskTableViewController.swift; sourceTree = "<group>"; };
 		8C004A7120FEB3C100960B3A /* TaskViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskViewController.swift; sourceTree = "<group>"; };
 		8C131318249F0D9900900C41 /* DataMigrateTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataMigrateTableViewController.swift; sourceTree = "<group>"; };
+		8C1E62BE24C2D4C9005D425F /* ShareCustomViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareCustomViewController.swift; sourceTree = "<group>"; };
 		8C219F9922FE613F00E87A2B /* LocationAuth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationAuth.swift; sourceTree = "<group>"; };
 		8C27360C21169F1600A482B3 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		8C27360E2116CB2200A482B3 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
@@ -222,6 +224,7 @@
 				8C65FCF4232DE6C1009BD6B0 /* Info.plist */,
 				8C902EF7233F2E1300CC93A5 /* InfoPlist.strings */,
 				8C902EF4233F2E1300CC93A5 /* Localizable.strings */,
+				8C1E62BE24C2D4C9005D425F /* ShareCustomViewController.swift */,
 			);
 			path = "Poli-Extension";
 			sourceTree = "<group>";
@@ -423,6 +426,7 @@
 				8C144485232F118D00FCE647 /* Goal+CoreDataProperties.swift in Sources */,
 				8C144489232F119900FCE647 /* Reward+CoreDataProperties.swift in Sources */,
 				8C144488232F119600FCE647 /* Vision+CoreDataClass.swift in Sources */,
+				8C1E62BF24C2D4C9005D425F /* ShareCustomViewController.swift in Sources */,
 				8C14447F232EFFDE00FCE647 /* ShareSelectViewController.swift in Sources */,
 				8C14448B232F119E00FCE647 /* Task+CoreDataProperties.swift in Sources */,
 				8C144486232F119000FCE647 /* Goal+CoreDataClass.swift in Sources */,
